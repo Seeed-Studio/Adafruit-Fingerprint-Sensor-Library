@@ -15,7 +15,7 @@
  ****************************************************/
 
 #include "Adafruit_Fingerprint.h"
-#include <util/delay.h>
+//#include <util/delay.h>
 #if (ARDUINO >= 100)
   #include <SoftwareSerial.h>
 #else
